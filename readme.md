@@ -6,4 +6,5 @@ And a good description of the content :D
 
 And things that are important to write here
 
-A change that i made at 17:44
+# 20.6.2023
+Starting the SQL and PostgresSQL Udemy course
